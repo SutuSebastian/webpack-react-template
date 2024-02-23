@@ -1,0 +1,10 @@
+{
+  "pages": {
+    "home": {
+      "title": "Home"
+    },
+    "notFound": {
+      "title": "Oops! This page can't be reached"
+    }
+  }
+}

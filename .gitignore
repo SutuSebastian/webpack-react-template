@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log*
+
+# Dependency directories
+node_modules
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Dotenv environment variables file
+.env
+
+# Build
+build
+
+# SWC cache
+.swc
+
+# Apple
+.DS_Store
+
+# Testing
+coverage
+test-report.xml
